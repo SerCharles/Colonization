@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/audio">
+        <file>audio/MainTheme.wav</file>
+        <file>audio/GameTheme.wav</file>
+        <file>audio/Sound_Bomb.wav</file>
+        <file>audio/Sound_Gun.wav</file>
+        <file>audio/Sound_Attack.wav</file>
+    </qresource>
+</RCC>
